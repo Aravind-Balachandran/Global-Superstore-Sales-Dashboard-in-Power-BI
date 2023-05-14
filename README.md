@@ -1,4 +1,4 @@
-### Power BI Superstore Sales Dashboard
+### Global Superstore Sales Dashboard with Power BI
 This project analyzes the Global Superstore dataset from Kaggle using Power BI Desktop. The goal of this project is to gain insights into the company's sales performance, customer behavior, and supply chain management.
 
 #### Dataset
