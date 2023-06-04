@@ -1,4 +1,4 @@
-### Global Superstore Sales Dashboard with Power BI
+### Global Superstore Sales Dashboard in Power BI
 This project is aimed at providing a comprehensive analysis of sales and customer data of a retail company that operates in multiple countries. The goal of this project is to gain insights into the company's sales performance, customer behavior, and supply chain management.
 
 #### Dataset
